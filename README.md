@@ -5,5 +5,5 @@ A markdown-based lyric slide creation and presentation tool using Remark.js and 
 ### Commands
 
 * Start Middleman `bundle exec middleman`
-* Deploy to gh-pages `middleman deploy`
+* Deploy to gh-pages `middleman deploy [--build-before]`
 
