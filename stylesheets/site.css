@@ -1,15 +1,25 @@
 body {
-  background-color: #fbc547;
-  color: #333;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 18vh 1rem;
+  color: #fff;
+  font-family: Verdana,Geneva,sans-serif; }
+
+h1, h2, h3 {
+  color: #ddd;
+  font-family: Georgia,Utopia,Charter,serif;
+  font-weight: normal; }
+
+p {
+  font-size: 42px; }
+
+.remark-code, .remark-inline-code {
+  font-family: 'Courier New',Courier,monospace; }
+
+.remark-slide-content {
+  background-color: #000;
   text-align: center; }
 
-a {
-  color: rgba(0, 0, 0, 0.7); }
-  a:focus, a:hover {
-    color: rgba(0, 0, 0, 0.6); }
-
-.middleman-logo {
-  margin-bottom: 1rem;
-  width: 10rem; }
+.remark-slide-scaler {
+  width: 100% !important;
+  height: 100% !important;
+  transform: none !important;
+  left: 0px !important;
+  top: 0px !important; }
