@@ -6,12 +6,14 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "Middleman" %></title>
+    <title><%= current_page.data.title || "Cornerstone" %></title>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
   </head>
   <body>
-    <%= yield %>
+    <textarea id="source">
+      <%= yield %>
+    </textarea>
     <script type="text/javascript">
       var slideshow = remark.create({
         navigation: {scroll: false,},
