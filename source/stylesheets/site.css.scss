@@ -1,13 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+
 body { 
   color: #fff;
   font-family: Verdana,Geneva,sans-serif;
 }
 h1, h2, h3 {
   color: #ddd;
-  font-family: Georgia,Utopia,Charter,serif;
-  font-weight: normal;
+  font-family: Montserrat,sans-serif;
+  font-weight: 500;
 }
-p { font-size: 42px; }
+h1 {
+  font-size:64px !important;
+}
+p { font-size: 50px; }
 .remark-code, .remark-inline-code { font-family: 'Courier New',Courier,monospace; }
 .remark-slide-content { 
   background-color: #000;
