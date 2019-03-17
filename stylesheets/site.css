@@ -27,3 +27,14 @@ p {
   transform: none !important;
   left: 0px !important;
   top: 0px !important; }
+
+.remark-slide-content .footer {
+  font-size: 30px;
+  color: #bbb;
+  text-align: left;
+  position: absolute;
+  bottom: 5rem;
+  left: 3rem; }
+
+.footer-title {
+  font-size: 40px; }
