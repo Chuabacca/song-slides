@@ -24,7 +24,8 @@ p {
 .remark-slide-scaler {
   width: 100% !important;
   height: 100% !important;
-  transform: none !important;
+  -webkit-transform: none !important;
+          transform: none !important;
   left: 0px !important;
   top: 0px !important; }
 
