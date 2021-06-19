@@ -1,0 +1,104 @@
+***
+->
+# The Lord is my Salvation
+
+<-
+***
+->
+
+The grace of God has reached for me
+And pulled me from the raging sea
+And I am safe on this solid ground
+The Lord is my salvation
+
+<-
+***
+->
+
+I will not fear when darkness falls
+His strength will help me scale these walls
+I’ll see the dawn of the rising sun
+The Lord is my salvation
+
+<-
+***
+->
+
+Who is like the Lord our God?
+Strong to save, faithful in love
+My debt is paid and the vict’ry won
+The Lord is my salvation
+
+<-
+***
+->
+
+My hope is hidden in the Lord
+He flow’rs each promise of His Word
+When winter fades I know spring will come
+The Lord is my salvation
+
+<-
+***
+->
+
+In times of waiting, times of need
+When I know loss, when I am weak
+I know His grace will renew these days
+The Lord is my salvation
+
+<-
+***
+->
+
+Who is like the Lord our God?
+Strong to save, faithful in love
+My debt is paid and the vict’ry won
+The Lord is my salvation
+
+<-
+***
+->
+
+And when I reach my final day
+He will not leave me in the grave
+But I will rise,
+He will call me home
+The Lord is my salvation
+
+<-
+***
+->
+
+Who is like the Lord our God?
+Strong to save, faithful in love
+My debt is paid and the vict’ry won
+The Lord is my salvation
+
+<-
+***
+->
+
+Glory be to God the Father
+Glory be to God the Son
+Glory be to God the Spirit
+The Lord is our salvation
+
+<-
+***
+->
+
+Glory be to God the Father
+Glory be to God the Son
+Glory be to God the Spirit
+
+<-
+***
+->
+
+The Lord is our salvation
+The Lord is our salvation
+The Lord is our salvation
+
+<-
+***
